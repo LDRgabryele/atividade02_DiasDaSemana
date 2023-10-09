@@ -1,0 +1,7 @@
+print ('domingo')
+print ('segunda')
+print ('terça-feira')
+print ('quarta-feira')
+print ('quinta-feira')
+print ('sexta-feira')
+print ('sábado') 
